@@ -1,0 +1,87 @@
+div.biodata{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(20vw);
+    height: calc(130vh);
+    width: calc(60vw);
+    border: 2px solid black;
+    /* background-color: lightblue; */
+    background-image: ;
+}
+div.studentinfo{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(2vw);
+    height: calc(20vh);
+    width: calc(56vw);
+    /* border: 1px solid blue; */
+}
+div.rollno{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    left: calc(0vw);
+    height: calc(4vh);
+    width: inherit;
+    /* background-color: lightgreen; */
+}
+div.first{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    left: calc(0vw);
+    height: inherit;
+    width: calc(10vw);
+    /* background-color: lightcoral; */
+    font-size: larger;
+    font-weight: bold;
+    /* font-family: monospace; */
+}
+div.second{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    left: calc(11vw);
+    height: inherit;
+    width: calc(30vw);
+    /* background-color: lightcoral; */
+}
+div.name{
+    display: flex;
+    position: absolute;
+    top: calc(4vh);
+    left: calc(0vw);
+    height: calc(4vh);
+    width: inherit;
+    /* background-color: lightgreen; */
+}
+div.fathername{
+    display: flex;
+    position: absolute;
+    top: calc(8vh);
+    left: calc(0vw);
+    height: calc(4vh);
+    width: inherit;
+    /* background-color: lightgreen; */
+}
+div.dateofbirth{
+    display: flex;
+    position: absolute;
+    top: calc(12vh);
+    left: calc(0vw);
+    height: calc(4vh);
+    width: inherit;
+    /* background-color: lightgreen; */
+}
+div.table{
+    display: flex;
+    position: absolute;
+    top: calc(25vh);
+    left: calc(17vw);
+    height: calc(50vh);
+    width: calc(21.5vw);
+    border: 1px solid black;
+    font-size: 180%;
+}
